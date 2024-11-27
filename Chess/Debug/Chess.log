@@ -1,0 +1,24 @@
+﻿  win32_Chess.cpp
+C:\Users\Rage\source\repos\Chess\Chess\renderer.cpp(45,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rage\source\repos\Chess\Chess\renderer.cpp(46,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rage\source\repos\Chess\Chess\renderer.cpp(47,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rage\source\repos\Chess\Chess\renderer.cpp(48,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rage\source\repos\Chess\Chess\renderer.cpp(57,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rage\source\repos\Chess\Chess\renderer.cpp(58,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rage\source\repos\Chess\Chess\renderer.cpp(61,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rage\source\repos\Chess\Chess\renderer.cpp(62,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rage\source\repos\Chess\Chess\renderer.cpp(68,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rage\source\repos\Chess\Chess\renderer.cpp(68,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rage\source\repos\Chess\Chess\renderer.cpp(71,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rage\source\repos\Chess\Chess\renderer.cpp(71,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rage\source\repos\Chess\Chess\chess_cBoard.cpp(1171,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rage\source\repos\Chess\Chess\chess_cBoard.cpp(1171,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rage\source\repos\Chess\Chess\chess_cBoard.cpp(1174,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rage\source\repos\Chess\Chess\chess_cBoard.cpp(1174,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rage\source\repos\Chess\Chess\chess_cBoard.cpp(1186,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rage\source\repos\Chess\Chess\chess_cBoard.cpp(1186,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rage\source\repos\Chess\Chess\chess_cBoard.cpp(1189,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rage\source\repos\Chess\Chess\chess_cBoard.cpp(1189,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rage\source\repos\Chess\Chess\win32_Chess.cpp(69,5): warning C4007: 'WinMain': must be '__stdcall'
+C:\Users\Rage\source\repos\Chess\Chess\chess_cBoard.cpp(1150): warning C4715: 'cBoard::possibleMoves': not all control paths return a value
+  Chess.vcxproj -> C:\Users\Rage\source\repos\Chess\Debug\Chess.exe
